@@ -2,7 +2,7 @@
 [Link](https://drive.google.com/drive/u/0/folders/1UZbGrHrwCtXVACh8aFKUmEVLXLB3mu3t)
 
 During the 100 days of the Save Soil movement, an acknowledgement tracker was utilised to maintain tabs on the acknowledgements of twitter activity.
-It's a drive folder with multiple sheets of CG Earth Buddies categorized by different centers.
+It's a drive folder with multiple sheets of Earth Buddies categorized by different centers.
 
 Acknowledgement Tracker is made with the help of various excel features.
 
